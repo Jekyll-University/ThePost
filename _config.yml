@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Bash Web App
+name: The Post
 
 # Short bio or description (displayed in the header)
-description: A Unix Bash Shell emulator done in the form of a Web Application.
+description: The Post is an open source MIT licensed Jekyll Theme
 
 # Plugins
 plugins:
